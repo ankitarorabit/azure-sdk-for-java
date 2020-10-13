@@ -18,4 +18,6 @@ models-subpackage: implementation.models
 context-client-method-parameter: true
 artifact-id: azure-learn-computation
 credential-types: tokencredential
+custom-types-subpackage: models
+custom-types: Operation,OperationStatus
 ```
